@@ -1,12 +1,10 @@
 ---
 author:
-  name: Hugo Authors
+  name: Martin
 categories:
 - Development
 date: "2021-10-30"
 description: ""
-series:
-- Hugo 101
 tags:
 - development
 title: 庆祝本博客创建成功
