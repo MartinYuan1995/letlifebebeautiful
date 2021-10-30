@@ -30,7 +30,7 @@ menu:
       url: /about
       weight: 4
 params:
-  author: Fastbyte01
+  author: Martin
   avatar: /images/me/avatar.jpeg
   baidu_verification: ''
   bing_verification: ''
@@ -67,14 +67,14 @@ params:
       height: 40
       url: logo.png
       width: 127
-    name: Fastbyte01
+    name: Martin
   share:
     Facebook: yes
     Linkedin: yes
     Twitter: yes
     copyright: This work is licensed under a Creative Commons Attribution-NonCommercial
       4.0 International License.
-  since: 2012
+  since: 2021
   social:
     Facebook: xxxx
     GitHub: xxxx
@@ -97,4 +97,4 @@ params:
     visitor: yes
   yandex_verification: ''
 author:
-  name: Fastbyte01
+  name: Martin
