@@ -1,6 +1,5 @@
 ---
-author:
-  name: Martin
+author: Martin
 categories:
 - Development
 date: "2021-10-30"
