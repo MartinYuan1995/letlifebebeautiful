@@ -7,7 +7,6 @@ categories:
   - Development
 tags:
   - development
-draft: yes
 description: ~
 featured_image: ~
 ---
