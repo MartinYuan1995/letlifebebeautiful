@@ -9,5 +9,8 @@ tags: []
 draft: yes
 description: ~
 featured_image: ~
+type:
+- posts
+- post
 ---
 # test
