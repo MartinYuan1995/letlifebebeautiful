@@ -4,7 +4,7 @@ author: Martin
 date: '2025-09-04'
 slug: []
 categories:
-  - pep talk
+  - Policy Document
 tags: []
 description: ~
 featured_image: ~
